@@ -23,3 +23,7 @@ Tras esto creamos la instancia y seguimos los pasos necesarios para instalar doc
 
 ![image](https://user-images.githubusercontent.com/90010904/229219840-8f84aa5a-0479-4828-988f-c66e5c89794a.png)
 
+
+
+https://user-images.githubusercontent.com/90010904/229221201-b1e6836e-9030-4635-b8ce-3b05457ee324.mp4
+
